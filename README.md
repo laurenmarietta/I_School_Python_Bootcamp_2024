@@ -1,24 +1,16 @@
-<p align="center">
-
-# Berkeley I School Python Bootcamp 2024<br>👁️🏫🐍🥾🏕️2️⃣0️⃣2️⃣4️⃣
-
-### _July 29 - August 8, 2024<br>Monday - Thursday, 4-7 pm PDT_
-
-
-</p>
+<h1 align="center">Berkeley I School Python Bootcamp 2024<br>👁️🏫🐍🥾🏕️2️⃣0️⃣2️⃣4️⃣</h1>
+<h3 align="center"><i>July 29 - August 8, 2024<br>Monday - Thursday, 4-7 pm PDT</i></h3>
 
 Hello MIMS c/o 2026 and PhDs c/o ~2030! Welcome to the pre-semester Python bootcamp. This bootcamp is intended for students with little to no background in Python programming. Those with more experience are welcome to join, but should be aware that the design of the course is built for beginners. This boot camp is specifically intended to prepare students for [Info 206A](https://www.ischool.berkeley.edu/courses/info/206a) and [Info 206B](https://www.ischool.berkeley.edu/courses/info/206b).
 
 
-<p align="center"><h4>
+<h4 align="center">
 Code will be located in this repository; lesson slide decks and recordings can be found on <a href="https://drive.google.com/drive/u/0/folders/1i3uYV41ieNStTIMHv84lp_MLBNGWvZUJ">Google Drive.</a>
-</h4></p>
+</h4>
 
 |                                                                             | Instructor                                                                                                                                                                                                                                                                                                                                     | Office Hours                                                      |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | <img src="https://laurenmarietta.github.io/images/headshot.png" width="80"> | <a href="https://laurenmarietta.github.io/">**Lauren Chambers**</a><br/>Ph.D. '27-ish<br/>[lauren@ischool.berkeley.edu](mailto:lauren@ischool.berkeley.edu)<br/><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" class="rounded-circle p-3 headshot" width="16">[@laurenmarietta](https://github.com/laurenmarietta) | Before class, 11am-12pm PDT<br/>*+ additional session on Fri 8/2* |
-
-
 
 ## Goals:
 - ✏️ Preparation for INFO 206A & 206B
