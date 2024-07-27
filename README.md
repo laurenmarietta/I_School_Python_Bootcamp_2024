@@ -1,18 +1,18 @@
-<div style="text-align: center;">
+<p align="center">
 
 # Berkeley I School Python Bootcamp 2024<br>👁️🏫🐍🥾🏕️2️⃣0️⃣2️⃣4️⃣
 
 ### _July 29 - August 8, 2024<br>Monday - Thursday, 4-7 pm PDT_
 
 
-</div>
+</p>
 
 Hello MIMS c/o 2026 and PhDs c/o ~2030! Welcome to the pre-semester Python bootcamp. This bootcamp is intended for students with little to no background in Python programming. Those with more experience are welcome to join, but should be aware that the design of the course is built for beginners. This boot camp is specifically intended to prepare students for [Info 206A](https://www.ischool.berkeley.edu/courses/info/206a) and [Info 206B](https://www.ischool.berkeley.edu/courses/info/206b).
 
 
-<div style="text-align: center;"><h4>
+<p align="center"><h4>
 Code will be located in this repository; lesson slide decks and recordings can be found on <a href="https://drive.google.com/drive/u/0/folders/1i3uYV41ieNStTIMHv84lp_MLBNGWvZUJ">Google Drive.</a>
-</h4></div>
+</h4></p>
 
 |                                                                             | Instructor                                                                                                                                                                                                                                                                                                                                     | Office Hours                                                      |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
