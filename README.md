@@ -29,7 +29,7 @@ _(Subject to change based on student feedback)_
 
 | Day | Modules                                                                                                    |
 | ------ |------------------------------------------------------------------------------------------------------------|
-| Monday 7/29 | Introduction, Environments & Workflows (Github, Anaconda, Python, Jupyter Notebook), Programmatic Thinking |
+| Monday 7/29 | Introduction, Environments & Workflows (Github, Anaconda, Python, Jupyter Notebook), Computational Thinking |
 | Tuesday 7/30 | Variable Types, Conditions                                                                                 |
 | Wednesday 8/1 | Iteration, Functions & Libraries                                                                           |
 | Thursday 8/2 | File I/O, Recap                                                                                            |
