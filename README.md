@@ -85,6 +85,7 @@ Office hours will be held each class day from 11am-12pm PDT. An additional offic
 - [INFO 206 Lecture Videos](https://farid.berkeley.edu/downloads/tutorials/learnPython/)
 - [Think Python](https://allendowney.github.io/ThinkPython/) - free online textbook with beaucoup Jupyter Notebooks
 - [Python environmental diagram generator](https://pythontutor.com/python-compiler.html#mode=edit) - helpful for understanding how a chunk of code runs
+- [_Thinking Like a Programmer_](http://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf) by V. Anton Spraul - book about computational thinking
 - One-page Cheatsheets:
   - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
   - [Terminal](https://images.datacamp.com/image/upload/v1700047731/Marketing/Blog/Bash_Cheat_Sheet.pdf)
