@@ -24,7 +24,7 @@ If you have problems, let the instructor know!
 ![Screenshot showing green dropdown button](../img/1A1.png)
 3. Click the “HTTPS” tab and copy the URL
 ![Screenshot showing HTTPS tap and copy button](../img/1A2.png)
-4. In the terminal, navigate to your desired directory
+4. In the terminal, navigate to your desired directory (see [here](https://tutorials.codebar.io/command-line/introduction/tutorial.html) for basic terminal navigation commands)
 5. Enter:
 `git clone https://github.com/laurenmarietta/I_School_Python_Bootcamp_2024.git`
 
@@ -41,6 +41,6 @@ If you have problems, let the instructor know!
 3. Install the `jupyter` and `notebook` packages in that environment
 4. From the Home page in Navigator, launch Jupyter Notebook
 5. Navigate to the director containing the class GitHub repo
-6. Open the Lab 1A Jupyter notebook
+6. Open the Lab 1A Jupyter notebook (`I_School_Python_Bootcamp_2024/Day 1 - Workflows & Computational Thinking/Lab 1A - Getting Started.ipynb`)
 
 ## 5. Complete the exercises in the Lab 1A notebook 
