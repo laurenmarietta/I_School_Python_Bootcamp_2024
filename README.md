@@ -86,6 +86,7 @@ Office hours will be held each class day from 11am-12pm PDT. An additional offic
 - [Think Python](https://allendowney.github.io/ThinkPython/) - free online textbook with beaucoup Jupyter Notebooks
 - [Python environmental diagram generator](https://pythontutor.com/python-compiler.html#mode=edit) - helpful for understanding how a chunk of code runs
 - [_Thinking Like a Programmer_](http://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf) by V. Anton Spraul - book about computational thinking
+- [Khan Academy](https://www.khanacademy.org/computing/intro-to-python-fundamentals) - free Intro to CS & Python course with lessons, videos, quizzes, and practice questions
 - One-page Cheatsheets:
   - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
   - [Terminal](https://images.datacamp.com/image/upload/v1700047731/Marketing/Blog/Bash_Cheat_Sheet.pdf)
