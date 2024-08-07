@@ -1,4 +1,4 @@
-# Day 6 - Data Visualization
+# Day 6 - Object-Oriented Programming 1
 ### August 6, 2024
 
 ##  Agenda
