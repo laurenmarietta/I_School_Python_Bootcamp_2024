@@ -8,6 +8,7 @@
   * [Lab 8A](Lab%208A%20-%20Data%20Analysis%20with%20numpy%20&%20pandas.ipynb): Data analysis with `numpy` & `pandas`
 * 10 min break
 * Lesson: Effective Data Visualization
+  *  Optional [Lab 8B](Lab%208B%20-%20Effective%20Data%20Visualization.ipynb)
 * Wrap-Up: Weeks 1 & 2
 * [Glossary editing](https://docs.google.com/document/d/1i4NwVoPUa2SnzKjRzU9Tnw3e0qJ3NsweAyz_W7LrJ7w/edit)
 * [Exit quiz](https://forms.gle/P86YiHvVHzWgBYMW6)
